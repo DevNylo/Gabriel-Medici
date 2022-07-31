@@ -3,6 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family:'Montserrat', sans-serif;
+	overflow-x: hidden;
 }
 
 .clear{
@@ -92,7 +93,7 @@ section.mosaico{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: 1fr 1fr;
-	grid-row-gap: 30px;
+	grid-row-gap: 20px;
 }
 
 
@@ -175,7 +176,7 @@ section.perfil-container .perfil-wraper2{
 section.perfil-container .img-perfil{
 	width: 40%;
 	height: 100%;
-	background-image: url('../imagens/img_perfil.png');
+	background-image: url('imagens/drgabriel.jpg');
 	background-size: 100% 100%;
 }
 
