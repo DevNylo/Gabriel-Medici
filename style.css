@@ -19,7 +19,6 @@ html,body{
 	height: 100%;
 }
 
-/**Header do site**/
 
 header{
 	padding:20px 2%;
@@ -81,9 +80,6 @@ header ul a{
 	text-decoration: none;
 }
 
-/*****/
-
-/**MOSAICO**/
 section.mosaico{
 	width: 100%;
 	margin: 0 auto;
@@ -94,7 +90,6 @@ section.mosaico{
 	grid-template-rows: 1fr 1fr;
 	grid-row-gap: 30px;
 }
-/****/
 
 section.servicos > .container{
 	max-width: 800px;
@@ -201,7 +196,6 @@ section.videos .box-video{
 	width: 33.3%;
 	position: relative;
 	border:5px solid white;
-	/*background-color: green;*/
 	padding-top:calc(33.3% * 0.6);
 }
 
