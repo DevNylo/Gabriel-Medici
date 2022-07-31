@@ -77,27 +77,15 @@ header nav.menu-desktop ul li{
 }
 
 header ul a{
-	color: #b4b4b4;
+	color: #484848;
 	text-decoration: none;
 }
 
 /*****/
 
 /**MOSAICO**/
-
-.mosaico-single{
-	float: left;
-	width: calc(100% / 6);
-}
-
-.img-mosaico-single{
+section.mosaico{
 	width: 100%;
-	padding-top:100%;
-	background-color: #ccc;
-	border:5px solid white;
-	/*
-	background-image:url('');
-	*/
 }
 
 /****/
