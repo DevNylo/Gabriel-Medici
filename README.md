@@ -1,6 +1,6 @@
 # <a href="https://devnylo.github.io/Gabriel-Medici/">Gabriel Medici</a>
 
-## Objetivo
+### Objetivo
 
 <p>Gabriel Medici é um experiênte dentista que não entende muito sobre tecnologia mas me solicitou que fosse criado um site para divulgar o seu consultório e trabalho</p>
 
