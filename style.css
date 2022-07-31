@@ -382,10 +382,6 @@ section.contato form{
 	height: 121px;
 	resize: none;
 	border: 1px solid #dadada;
-	/*
-	resize: horizontal;
-	resize: vertical;
-	*/
 }
 
 .form-wraper input[type=submit]{
@@ -396,12 +392,7 @@ section.contato form{
 	background: #688293;
 	color: white;
 	cursor: pointer;
-	/*
-	position: relative;
-	left: 50%;
-	transform:translateX(-50%);
-	-ms-transform:translateX(-50%);
-	*/
+	
 }
 
 footer{
